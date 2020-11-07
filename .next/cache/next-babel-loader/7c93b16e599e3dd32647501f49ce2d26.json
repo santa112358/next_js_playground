@@ -1,0 +1,1 @@
+{"ast":null,"code":"const h1 = {\n  fontSize: '102pt'\n};","map":{"version":3,"sources":["/Users/santa/Downloads/sample_next/styles/styles.js"],"names":["h1","fontSize"],"mappings":"AAAA,MAAMA,EAAE,GAAG;AACPC,EAAAA,QAAQ,EAAG;AADJ,CAAX","sourcesContent":["const h1 = {\n    fontSize : '102pt'\n}"]},"metadata":{},"sourceType":"script"}
